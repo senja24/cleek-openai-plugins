@@ -1,10 +1,10 @@
 {
-  "name": "@lobehub/lobe-openai-plugins",
+  "name": "@senja24/cleek-openai-plugins",
   "version": "1.0.0",
   "private": true,
-  "description": "a collection of openai plugins that chan work with LobeChat",
-  "homepage": "https://github.com/lobehub/lobe-openai-plugins",
-  "repository": "https://github.com/lobehub/lobe-openai-plugins.git",
+  "description": "a collection of openai plugins that chan work with Cleek",
+  "homepage": "https://github.com/senja24/cleek-openai-plugins",
+  "repository": "https://github.com/senja24/cleek-openai-plugins.git",
   "scripts": {
     "build": "bun src/index.ts",
     "ci": "npm run lint && npm run type-check",

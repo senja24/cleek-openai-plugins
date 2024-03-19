@@ -5,9 +5,9 @@
       "author": "orrenprunckun",
       "homepage": "https://seo-plugin.orrenprunckun.com",
       "identifier": "SEO",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/seo/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/seo/logo.webp",
         "description": "Enter any URL and keyword and get an On-Page SEO analysis & insights!",
         "tags": ["seo"],
         "title": "SEO"
@@ -18,9 +18,9 @@
       "author": "savvytrader",
       "homepage": "https://savvytrader.com",
       "identifier": "savvy_trader_ai",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/savvy-trader/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/savvy-trader/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/savvy-trader/logo.webp",
         "description": "Realtime stock, crypto and other investment data.",
         "tags": ["stock", "analyze"],
         "title": "Savvy Trader AI"
@@ -31,9 +31,9 @@
       "author": "askyourpdf",
       "homepage": "https://plugin.askyourpdf.com",
       "identifier": "askyourpdf",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/ask-your-pdf/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/ask-your-pdf/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/ask-your-pdf/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/ask-your-pdf/logo.webp",
         "description": "Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.",
         "tags": ["pdf", "document", "web"],
         "title": "AskYourPDF"
@@ -44,9 +44,9 @@
       "author": "assetovi",
       "homepage": "https://assetovi.com",
       "identifier": "assetOvi",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/asset-ovi/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/asset-ovi/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/asset-ovi/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/asset-ovi/logo.webp",
         "description": "Search and preview millions of 3D assets for games, AIGC, AR/VR and others.",
         "tags": ["3-d", "assets", "search"],
         "title": "Asset Ovi"
@@ -57,9 +57,9 @@
       "author": "efficiency",
       "homepage": "https://chat-plugin-giphy.efficiency.tools",
       "identifier": "GifApi",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/gif-search/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/gif-search/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/gif-search/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/gif-search/logo.webp",
         "description": "Search through a wide range of gifs - Powered by Giphy.",
         "tags": ["gif", "image", "search"],
         "title": "GIF Search"
@@ -70,9 +70,9 @@
       "author": "say-apps",
       "homepage": "https://twitter.say-apps.com",
       "identifier": "socialsearch",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/social-search/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/social-search/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/social-search/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/social-search/logo.webp",
         "description": "The Social Search provides access to tweets, users, followers, images, media and more.",
         "tags": ["social", "twitter", "x", "search"],
         "title": "Social Search"
@@ -83,9 +83,9 @@
       "author": "getchange",
       "homepage": "https://api.getchange.io",
       "identifier": "nonprofits",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/getchange/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/getchange/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/getchange/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/getchange/logo.webp",
         "description": "Discover impactful nonprofits to support in your community and beyond.",
         "tags": ["charity"],
         "title": "Change"
@@ -96,9 +96,9 @@
       "author": "feednews",
       "homepage": "https://cryptoplugin.feednews.com",
       "identifier": "TokenInsights",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/token-insights/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/token-insights/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/token-insights/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/token-insights/logo.webp",
         "description": "Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.",
         "tags": ["crypto", "BTC", "ETH", "BNB"],
         "title": "TokenInsights"
@@ -109,9 +109,9 @@
       "author": "swap",
       "homepage": "https://app.swap.net",
       "identifier": "nftguru",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/nftguru/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/nftguru/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/nftguru/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/nftguru/logo.webp",
         "description": "Discover current prices of NFTs across major platforms and keep track of the rapidly changing marketplace with real-time",
         "tags": ["crypto", "NFT"],
         "title": "NFT Guru"
@@ -122,9 +122,9 @@
       "author": "onrender",
       "homepage": "https://llamawrapper-prod.onrender.com",
       "identifier": "defillama",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/defillama/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/defillama/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/defillama/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/defillama/logo.webp",
         "description": "Retrieve data on DeFi protocols and blockchains.",
         "tags": ["crypto", "DeFi"],
         "title": "Defillama"
@@ -135,9 +135,9 @@
       "author": "mintbase",
       "homepage": "https://search-ai.mintbase.xyz",
       "identifier": "mintbasesearch",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/mintbasesearch/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/mintbasesearch/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/mintbasesearch/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/mintbasesearch/logo.webp",
         "description": "Find any NFT data on the NEAR Protocol.",
         "tags": ["crypto", "NFT"],
         "title": "MintbaseSearch"
@@ -148,9 +148,9 @@
       "author": "tapapis",
       "homepage": "https://openai.tapapis.com",
       "identifier": "GameSight",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/game-sight/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/game-sight/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/game-sight/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/game-sight/logo.webp",
         "description": "Discover games, game-related content, get recommendations, and compare games based on player reviews.",
         "tags": ["game", "search"],
         "title": "GameSight"
@@ -161,9 +161,9 @@
       "author": "plugsugar",
       "homepage": "https://websearch.plugsugar.com",
       "identifier": "web_search",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/web-search/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/web-search/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/web-search/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/web-search/logo.webp",
         "description": "Search for information from the internet",
         "tags": ["search", "plugsugar"],
         "title": "Web Search"
@@ -174,9 +174,9 @@
       "author": "brandzzy",
       "homepage": "https://sheet-generator.brandzzy.com",
       "identifier": "make_an_excel_sheet",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/make-a-sheet/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/make-a-sheet/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/make-a-sheet/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/make-a-sheet/logo.webp",
         "description": "Generate a csv file that can directly be imported into Google Sheets or MS Excel.",
         "tags": ["csv", "excel", "sheet"],
         "title": "Make A Sheet"
@@ -187,9 +187,9 @@
       "author": "redstarplugin",
       "homepage": "https://showme.redstarplugin.com",
       "identifier": "diagrams_show_me",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/diagrams-show-me/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/diagrams-show-me/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/diagrams-show-me/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/diagrams-show-me/logo.webp",
         "description": "Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export and Edit for free!",
         "tags": ["diagrams"],
         "title": "Diagrams: Show Me"
@@ -200,9 +200,9 @@
       "author": "boolio",
       "homepage": "https://chatgpt.boolio.co.kr",
       "identifier": "boolio",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/boolio/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/boolio/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/boolio/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/boolio/logo.webp",
         "description": "Analyze stock investments from any country, with Boolio's state-of-the-art engine.",
         "tags": ["stock", "analyze"],
         "title": "Boolio Invest"
@@ -213,9 +213,9 @@
       "author": "360macky",
       "homepage": "https://api.360macky.com",
       "identifier": "astrodaily",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/astrodaily/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/astrodaily/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/astrodaily/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/astrodaily/logo.webp",
         "description": "Search and discover NASA images.",
         "tags": ["nasa", "search", "image"],
         "title": "Astrodaily"
@@ -226,9 +226,9 @@
       "author": "steven-tey",
       "homepage": "https://github.com/steven-tey/weathergpt",
       "identifier": "WeatherGPT",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/weather-gpt/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/weather-gpt/logo.webp",
         "description": "Get current weather information for a specific location.",
         "tags": ["weather"],
         "title": "WeatherGPT"
@@ -239,9 +239,9 @@
       "author": "yunwei37",
       "homepage": "https://github.com/yunwei37/ChatGPT-github-stat-plugin",
       "identifier": "gitUserRepoStats",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/github-stats/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/github-stats/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/github-stats/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/github-stats/logo.webp",
         "description": "Dynamically generate and analyze stats and history for OSS repos and developers.",
         "tags": ["github", "oss"],
         "title": "Git OSS Stats"
@@ -252,9 +252,9 @@
       "author": "questmate",
       "homepage": "https://chatgpt-plugin.questmate.com",
       "identifier": "questmate",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/questmate/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/questmate/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/questmate/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/questmate/logo.webp",
         "description": "Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.",
         "tags": ["forms", "checklists", "productivity"],
         "title": "Questmate Forms"
@@ -265,9 +265,9 @@
       "author": "maila",
       "homepage": "https://scholarly.maila.ai",
       "identifier": "scholarly",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/scholarly/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/scholarly/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/scholarly/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/scholarly/logo.webp",
         "description": "Scholarly is an AI-powered search engine for exploring scientific literature.",
         "tags": ["scientific-literature", "search"],
         "title": "Scholarly"
@@ -278,9 +278,9 @@
       "author": "litmaps",
       "homepage": "https://api.litmaps.com",
       "identifier": "litmaps",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/litmaps/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/litmaps/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/litmaps/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/litmaps/logo.webp",
         "description": "Get help exploring the scientific literature. Find relevant papers and generate mindmaps of the literature.",
         "tags": ["scientific-literature", "search"],
         "title": "Litmaps"
@@ -291,9 +291,9 @@
       "author": "txyz",
       "homepage": "https://txyz.ai",
       "identifier": "ResearchAI",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/txyz/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/txyz/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/txyz/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/txyz/logo.webp",
         "description": "Explore the universe of research. Search and compare papers, and answer questions.",
         "tags": ["research-paper", "search"],
         "title": "txyz.ai"
@@ -304,9 +304,9 @@
       "author": "guruwalk",
       "homepage": "https://www.guruwalk.com",
       "identifier": "todo",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/guru-walk/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/guru-walk/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/guru-walk/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/guru-walk/logo.webp",
         "description": "The best free tour guides in the world are here.",
         "tags": ["travel", "guides"],
         "title": "GuruWalk"
@@ -317,9 +317,9 @@
       "author": "travelmyth",
       "homepage": "https://www.travelmyth.com",
       "identifier": "travelmyth",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/travelmyth/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/travelmyth/logo.webp",
         "description": "Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.",
         "tags": ["travel", "hotel", "search"],
         "title": "Travelmyth"
@@ -330,9 +330,9 @@
       "author": "domatron",
       "homepage": "https://gpt.domatron.com",
       "identifier": "domatron",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/domatron/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/domatron/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/domatron/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/domatron/logo.webp",
         "description": "Find available, brandable .com domain names for your business businesses.",
         "tags": ["domain", "search"],
         "title": "Domatron Domains"
@@ -343,9 +343,9 @@
       "author": "maila",
       "homepage": "https://vcaption.maila.ai",
       "identifier": "VideoCaptions",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/video-captions/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/video-captions/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/video-captions/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/video-captions/logo.webp",
         "description": "Convert Youtube links into transcribed text, enable asking questions, create chapters, and summarize its content.",
         "tags": ["video-to-text", "youtube"],
         "title": "Video Captions"
@@ -356,9 +356,9 @@
       "author": "glarity",
       "homepage": "https://glarity.app",
       "identifier": "Video_summary",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/video-summary/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/video-summary/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/video-summary/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/video-summary/logo.webp",
         "description": "Summarize YouTube video highlights. Generate summaries from YouTube video URLs.",
         "tags": ["video-to-text", "youtube"],
         "title": "Video Summary"
@@ -369,9 +369,9 @@
       "author": "accessplugins",
       "homepage": "https://sheets.accessplugins.com",
       "identifier": "access_google_sheets",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/access-google-sheets/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/access-google-sheets/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/access-google-sheets/logo.webp",
         "description": "Ask your Google Sheets questions & chat with excel. Enter Google Drive link to start!",
         "tags": ["google", "sheets", "excel"],
         "title": "Access Google Sheet"
@@ -382,9 +382,9 @@
       "author": "azurewebsites",
       "homepage": "https://aladin-search-book.azurewebsites.net",
       "identifier": "AladinSearchBooks",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/aladin-search-book/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/aladin-search-book/logo.webp",
         "description": "Search for books on Aladin.",
         "tags": ["book", "search"],
         "title": "AladinBooks"
@@ -395,9 +395,9 @@
       "author": "prod",
       "homepage": "https://api.prod.bardeen.ai",
       "identifier": "Bardeen",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/bardeen/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/bardeen/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/bardeen/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/bardeen/logo.webp",
         "description": "Create and run automations on the most popular web services.",
         "tags": ["workflow", "automatic"],
         "title": "Bardeen"
@@ -408,9 +408,9 @@
       "author": "pulsetic",
       "homepage": "https://api.pulsetic.com",
       "identifier": "uptime",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/uptime/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/uptime/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/uptime/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/uptime/logo.webp",
         "description": "Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.",
         "tags": ["website", "performance", "test"],
         "title": "Check Website Down"
@@ -421,9 +421,9 @@
       "author": "magejosh",
       "homepage": "https://dmtoolkit.magejosh.repl.co",
       "identifier": "diceroller",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/diceroller/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/diceroller/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/diceroller/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/diceroller/logo.webp",
         "description": "App for rolling dice using the d20 or Fate/Fudge systems.",
         "tags": ["game", "dice", "dm"],
         "title": "DM Tool Kit"
@@ -434,9 +434,9 @@
       "author": "filtir",
       "homepage": "https://app.filtir.com",
       "identifier": "factcheck",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/factcheck/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/factcheck/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/factcheck/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/factcheck/logo.webp",
         "description": "Verify the provided text using external sources.",
         "tags": ["check", "fact"],
         "title": "Filtir"
@@ -447,9 +447,9 @@
       "author": "aigenprompt",
       "homepage": "https://imgser.aigenprompt.com",
       "identifier": "ImageSearch",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/image-search/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/image-search/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/image-search/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/image-search/logo.webp",
         "description": "Discover complimentary images to enhance your generated article or to highlight specific paragraphs from Unsplash.",
         "tags": ["image", "search"],
         "title": "ImageSearch"
@@ -460,9 +460,9 @@
       "author": "customplugin",
       "homepage": "https://levinbot.customplugin.ai",
       "identifier": "levinbot",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/levinbot/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/levinbot/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/levinbot/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/levinbot/logo.webp",
         "description": "Search research papers and transcripts of talks from Dr. Michael Levin's Lab.",
         "tags": ["research-paper", "search"],
         "title": "LevinBot"
@@ -473,9 +473,9 @@
       "author": "mixerbox",
       "homepage": "https://podcasts.mixerbox.com",
       "identifier": "MixerBox_Podcasts",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-podcasts/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/mixer-box-podcasts/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-podcasts/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/mixer-box-podcasts/logo.webp",
         "description": "Search podcasts easily! Explore podcasts covering society, sports, business, news, music, and more!",
         "tags": ["podcast", "search"],
         "title": "MixerBox Podcasts"
@@ -486,9 +486,9 @@
       "author": "mixerbox",
       "homepage": "https://translate.mixerbox.com",
       "identifier": "MixerBox_Translate_AI_language_tutor",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-translate-ai-language-tutor/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/mixer-box-translate-ai-language-tutor/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-translate-ai-language-tutor/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/mixer-box-translate-ai-language-tutor/logo.webp",
         "description": "Translate any language right away! Learn foreign languages easily by conversing with AI tutors!",
         "tags": ["translate"],
         "title": "MixerBox Translate"
@@ -499,9 +499,9 @@
       "author": "mixerbox",
       "homepage": "https://weather.mixerbox.com",
       "identifier": "MixerBox_Weather",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-weather/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/mixer-box-weather/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/mixer-box-weather/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/mixer-box-weather/logo.webp",
         "description": "Get real-time worldwide weather updates & forecasts, instantly!",
         "tags": ["weather"],
         "title": "MixerBox Weather"
@@ -512,9 +512,9 @@
       "author": "portfoliometa",
       "homepage": "https://portfoliometa.com",
       "identifier": "StockData",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/stock-data/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/stock-data/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/stock-data/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/stock-data/logo.webp",
         "description": "Analyze stocks and get comprehensive real-time investment data and analytics.",
         "tags": ["stock"],
         "title": "PortfolioMeta"
@@ -525,9 +525,9 @@
       "author": "webfx",
       "homepage": "https://webfx.ai",
       "identifier": "seo_assistant",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/seo-assistant/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/seo-assistant/logo.webp",
         "description": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content.",
         "tags": ["seo", "keyword"],
         "title": "SEO Assistant"
@@ -538,9 +538,9 @@
       "author": "shoppingtools",
       "homepage": "https://shoppingtools.biz",
       "identifier": "ShoppingTools",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/shopping-tools/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/shopping-tools/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/shopping-tools/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/shopping-tools/logo.webp",
         "description": "Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.",
         "tags": ["shopping", "eBay", "AliExpress", "coupons"],
         "title": "Shopping tools"
@@ -551,9 +551,9 @@
       "author": "automateyournetwork",
       "homepage": "https://space.automateyournetwork.ca",
       "identifier": "Space",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/space/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/space/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/space/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/space/logo.webp",
         "description": "Space data including NASA.",
         "tags": ["space", "nasa"],
         "title": "Space"
@@ -564,9 +564,9 @@
       "author": "azurewebsites",
       "homepage": "https://gptfineart.azurewebsites.net",
       "identifier": "ssfineart",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/ssfineart/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/ssfineart/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/ssfineart/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/ssfineart/logo.webp",
         "description": "A research assistant that returns a set of URI's to examples of fine art requested by user.",
         "tags": ["art", "fineart", "search"],
         "title": "SuperStock Fine Art"
@@ -577,9 +577,9 @@
       "author": "pluginboost",
       "homepage": "https://guitarchords.pluginboost.com",
       "identifier": "uberchord",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/uberchord/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/uberchord/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/uberchord/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/uberchord/logo.webp",
         "description": "Find guitar chord diagrams by specifying the chord name.",
         "tags": ["music", "guitar", "search"],
         "title": "Uberchord"
@@ -590,9 +590,9 @@
       "author": "medium",
       "homepage": "https://medium.com",
       "identifier": "MediumGPTPlugin",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/medium/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/medium/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/medium/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/medium/logo.webp",
         "description": "Plugin for accessing, browsing and extracting Medium content.",
         "tags": ["article", "search"],
         "title": "Medium plugin"
@@ -603,9 +603,9 @@
       "author": "pyxl",
       "homepage": "https://mermaid.pyxl.uk",
       "identifier": "Charts_and_Diagrams",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/charts-and-diagrams/manifest.json",
+      "manifest": "https://openai-collections.chat-plugin.cleek.id/charts-and-diagrams/manifest.json",
       "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/charts-and-diagrams/logo.webp",
+        "avatar": "https://openai-collections.chat-plugin.cleek.id/charts-and-diagrams/logo.webp",
         "description": "Mermaid Diagrams, Schemes for Presentations, Analysis, research websites, pie charts.",
         "tags": ["chart", "diagram"],
         "title": "Charts & Diagrams"

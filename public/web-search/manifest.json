@@ -1,7 +1,7 @@
 {
   "api": {
     "type": "openapi",
-    "url": "https://openai-collections.chat-plugin.lobehub.com/web-search/openapi.json",
+    "url": "https://openai-collections.chat-plugin.cleek.id/web-search/openapi.json",
     "is_user_authenticated": false
   },
   "auth": {
@@ -11,7 +11,7 @@
   "description_for_human": "Search for information from the internet",
   "description_for_model": "Search for information from the internet",
   "legal_info_url": "https://websearch.plugsugar.com/contact",
-  "logo_url": "https://openai-collections.chat-plugin.lobehub.com/web-search/logo.webp",
+  "logo_url": "https://openai-collections.chat-plugin.cleek.id/web-search/logo.webp",
   "name_for_human": "Web Search",
   "name_for_model": "web_search",
   "schema_version": "v1"

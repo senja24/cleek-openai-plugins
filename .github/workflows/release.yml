@@ -30,8 +30,8 @@ jobs:
       - name: Commit changes
         run: |-
           git diff
-          git config --global user.name "lobehubbot"
-          git config --global user.email "i@lobehub.com"
+          git config --global user.name "senja24"
+          git config --global user.email "ikaagus958@gmail.com"
           git add .
           git commit -m "🤖 chore: Auto sync plugins" || exit 0
           git push
