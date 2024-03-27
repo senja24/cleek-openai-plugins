@@ -21,7 +21,5 @@ jobs:
             ❤️ Great PR @${{ github.event.pull_request.user.login }} ❤️
 
             The growth of project is inseparable from user feedback and contribution, thanks for your contribution!
-
-            项目的成长离不开用户反馈和贡献，感谢您的贡献!
           emoji: 'hooray'
           pr-emoji: '+1, heart'

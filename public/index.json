@@ -1,5 +1,14 @@
 {
-  "expires": ["stackoverflow_plus", "speak", "nba_stats", "earthquake"],
+  "expires": [
+    "stackoverflow_plus",
+    "socialsearch",
+    "speak",
+    "nba_stats",
+    "earthquake",
+    "ImageSearch",
+    "Space",
+    "Charts_and_Diagrams"
+  ],
   "plugins": [
     {
       "author": "orrenprunckun",
@@ -63,19 +72,6 @@
         "description": "Search through a wide range of gifs - Powered by Giphy.",
         "tags": ["gif", "image", "search"],
         "title": "GIF Search"
-      },
-      "schemaVersion": 1
-    },
-    {
-      "author": "say-apps",
-      "homepage": "https://twitter.say-apps.com",
-      "identifier": "socialsearch",
-      "manifest": "https://openai-collections.chat-plugin.cleek.id/social-search/manifest.json",
-      "meta": {
-        "avatar": "https://openai-collections.chat-plugin.cleek.id/social-search/logo.webp",
-        "description": "The Social Search provides access to tweets, users, followers, images, media and more.",
-        "tags": ["social", "twitter", "x", "search"],
-        "title": "Social Search"
       },
       "schemaVersion": 1
     },
@@ -444,19 +440,6 @@
       "schemaVersion": 1
     },
     {
-      "author": "aigenprompt",
-      "homepage": "https://imgser.aigenprompt.com",
-      "identifier": "ImageSearch",
-      "manifest": "https://openai-collections.chat-plugin.cleek.id/image-search/manifest.json",
-      "meta": {
-        "avatar": "https://openai-collections.chat-plugin.cleek.id/image-search/logo.webp",
-        "description": "Discover complimentary images to enhance your generated article or to highlight specific paragraphs from Unsplash.",
-        "tags": ["image", "search"],
-        "title": "ImageSearch"
-      },
-      "schemaVersion": 1
-    },
-    {
       "author": "customplugin",
       "homepage": "https://levinbot.customplugin.ai",
       "identifier": "levinbot",
@@ -548,19 +531,6 @@
       "schemaVersion": 1
     },
     {
-      "author": "automateyournetwork",
-      "homepage": "https://space.automateyournetwork.ca",
-      "identifier": "Space",
-      "manifest": "https://openai-collections.chat-plugin.cleek.id/space/manifest.json",
-      "meta": {
-        "avatar": "https://openai-collections.chat-plugin.cleek.id/space/logo.webp",
-        "description": "Space data including NASA.",
-        "tags": ["space", "nasa"],
-        "title": "Space"
-      },
-      "schemaVersion": 1
-    },
-    {
       "author": "azurewebsites",
       "homepage": "https://gptfineart.azurewebsites.net",
       "identifier": "ssfineart",
@@ -596,19 +566,6 @@
         "description": "Plugin for accessing, browsing and extracting Medium content.",
         "tags": ["article", "search"],
         "title": "Medium plugin"
-      },
-      "schemaVersion": 1
-    },
-    {
-      "author": "pyxl",
-      "homepage": "https://mermaid.pyxl.uk",
-      "identifier": "Charts_and_Diagrams",
-      "manifest": "https://openai-collections.chat-plugin.cleek.id/charts-and-diagrams/manifest.json",
-      "meta": {
-        "avatar": "https://openai-collections.chat-plugin.cleek.id/charts-and-diagrams/logo.webp",
-        "description": "Mermaid Diagrams, Schemes for Presentations, Analysis, research websites, pie charts.",
-        "tags": ["chart", "diagram"],
-        "title": "Charts & Diagrams"
       },
       "schemaVersion": 1
     }
