@@ -102,7 +102,7 @@ const run = async () => {
             tags: tags,
             title: manifestJson.name_for_human,
           },
-          schemaVersion: 1
+          schemaVersion: 1,
         };
       } catch (error) {
         consola.error(`Failed to sync ${path}`, error);
